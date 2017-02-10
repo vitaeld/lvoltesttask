@@ -5,7 +5,7 @@
 The project for testing online calculcator available at "http://web2.0calc.ru/". Consists of the framework and several tests checking 
 calculator's main functions. 
 The list of tests:
-1. Checks multiplication function.
+1. Checks multiplication function. 
 2. Checks addition function.
 3. Checks subtraction function.
 4. Checks division function.

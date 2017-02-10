@@ -22,8 +22,9 @@ The list of tests:
 
 ## Installing
 
--Project requires Windows OS and NodeJS + NPM(Node Package Manager) to be installed.
--Download project zip file to the desired directory.
+Project requires Windows OS and NodeJS + NPM(Node Package Manager) to be installed.
+
+Download project zip file to the desired directory.
 
 ## Running tests
 

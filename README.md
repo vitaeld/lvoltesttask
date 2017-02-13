@@ -22,7 +22,7 @@ The list of tests:
 
 ## Installing
 
-Project requires Windows OS and NodeJS + NPM(Node Package Manager) to be installed.
+Project requires Windows OS and NodeJS + NPM(Node Package Manager), Firefox browser to be installed.
 
 Download project zip file to the desired directory.
 
